@@ -10,6 +10,7 @@ namespace First_Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Grand Circus!");
         }
     }
 }
